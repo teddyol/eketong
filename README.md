@@ -3,8 +3,6 @@
 
 ![ad](https://raw.githubusercontent.com/teddyol/eketong/master/20190517114512.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/teddyol/eketong/master/20190517114512.jpg)
-
 ###### 官网地址：http://hhm91.com/
 
 ###### Build Setup：
